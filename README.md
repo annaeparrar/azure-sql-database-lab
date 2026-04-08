@@ -98,7 +98,6 @@ Ferramentas utilizadas:
 
 ## 🧪 Teste de Conexão
 
-Exemplo de query executada:
 
 ```sql
 SELECT GETDATE();
